@@ -16,3 +16,18 @@ header , footer {
     justify-content: center;
     align-items: center;
 }
+    .main h1 {
+        font-size: 2rem;
+        margin: 0;
+    }
+    .main p {
+        font-size: 1.25rem;
+        margin: 0.5rem 0;
+    }
+    .main a {
+        color: #007BFF;
+        text-decoration: none;
+    }
+    .main a:hover {
+        text-decoration: underline;
+    }
