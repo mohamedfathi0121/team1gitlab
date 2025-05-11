@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;}
+
+header , footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 0.75rem;
+}
+    .main {
+    min-height:75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
